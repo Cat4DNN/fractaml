@@ -30,13 +30,3 @@ npx serve
 ```
 
 Go to `localhost:3000` to check out the fractal.
-
-## Developers
-
-- EduardoLR10
-- ribeirotomas1904
-- MMagueta
-
-## Dr.Nekoma
-
-Built live on [twitch](https://www.twitch.tv/drnekoma) and archived on [youtube](https://www.youtube.com/channel/UCMyzdYsPiBU3xoqaOeahr6Q)
